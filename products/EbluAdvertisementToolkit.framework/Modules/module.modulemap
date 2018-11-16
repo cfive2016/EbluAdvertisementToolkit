@@ -1,0 +1,6 @@
+framework module EbluAdvertisementToolkit {
+  umbrella header "EbluAdvertisementToolkit.h"
+
+  export *
+  module * { export * }
+}
